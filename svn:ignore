@@ -1,0 +1,13 @@
+svn:ignore
+
+
+*.suo
+*.user
+ipch
+x64
+*.VC.db
+*.git*
+*.vs
+*.VC.opendb
+*.obj
+*.tlog
